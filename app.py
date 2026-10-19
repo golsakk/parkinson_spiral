@@ -112,4 +112,4 @@ with gr.Blocks(title="تشخیص پارکینسون") as demo:
     توضیح‌پذیری: Grad-CAM
     """)
 
-demo.launch(server_name="0.0.0.0", server_port=8080)
+demo.launch(server_name="0.0.0.0", server_port=7860)
